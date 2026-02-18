@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirzamehdi Karimov</h1>
-<h3 align="center">Android Developer with more than 5 years of experience</h3>
+<h3 align="center">Android Developer with more than 7 years of experience</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mirzemehdi&label=Profile%20views&color=0e75b6&style=flat" alt="mirzemehdi" /> </p>
@@ -12,7 +12,7 @@ I develop mobile applications for different types of businesses, startups, and c
   
 - 📱 [FindTravelNow](https://github.com/mirzemehdi/FindTravelNow-KMM/): Kotlin Multiplatform + Compose Multiplatform project (android + ios) I’m currently working on
 
-- ⚙️ [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier/), [KMPAuth](https://github.com/mirzemehdi/KMPAuth/), [KMPRevenueCat](https://github.com/mirzemehdi/KMPRevenuecat/): Kotlin Multiplatform Libraries that I developed and maintain
+- ⚙️ [KMPNotifier](https://github.com/mirzemehdi/KMPNotifier/), [KMPAuth](https://github.com/mirzemehdi/KMPAuth/) Kotlin Multiplatform Libraries that I developed and maintain
 
 - 👨‍💻 All of my projects/portfolio are available at [mirzemehdi.com](mirzemehdi.com)
 
